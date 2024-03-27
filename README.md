@@ -1,2 +1,3 @@
-# iris-virtual-tutor-2024
-Data Repository of the IRIS user survey in "IRIS: An AI-based virtual tutor for computer science education"
+# IRIS User Survey 2024
+
+This repository contains the data of the IRIS User Survey 2024 alongside the scripts used for analysis and figure compilation.
